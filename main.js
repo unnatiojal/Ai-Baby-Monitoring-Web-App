@@ -5,7 +5,7 @@ status = "";
 
 function preload()
 {
-	song = loadSound("scooby_doo.mp3");
+	song = loadSound("funny_ring_tone.mp3");
 }
 
 function setup() {
